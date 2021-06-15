@@ -1,0 +1,17 @@
+{
+  "name": "canva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "gif-encoder-2": "^1.0.5",
+    "prettier": "^2.3.1",
+    "screenshot-desktop": "^1.12.5"
+  }
+}
